@@ -1,0 +1,28 @@
+.server{
+    background-color:black;
+    font-size: 10px;
+    margin-bottom: 60px;
+    padding: 100px;
+    text-align: center;
+    text-decoration: underline;
+    width: auto;
+    height: auto;
+    color: whitesmoke;
+}
+
+button{
+    color:black;
+    background-color:blue ;
+}
+.alpha{
+  
+    font-size: 100px;
+}
+img{
+
+    width: auto;
+    height: auto;
+    align-items: center;
+   padding: 50px;
+}
+
