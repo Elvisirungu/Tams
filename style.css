@@ -1,0 +1,64 @@
+button {
+    color: #0000ff;
+    padding: 10px;
+    margin: 10px;
+    border: blue;
+}
+
+.effects {
+    color: pink;
+}
+
+.mainpage {
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+.formInput {
+    background-color: #6b6b87;
+    height: 200px;
+    width: 100%;
+}
+
+.welcome {
+    background-color: blue;
+}
+
+.others {
+
+    background-color: orange;
+    font-size: 18px;
+    font-family: sans-serif;
+    color: indigo;
+    margin: 20px;
+    padding: 30px;
+    border: 10px solid #0000ff;
+    border-radius: 20px;
+    border-top-left-radius: 20px;
+
+    .subscribe {
+        /* display: none; */
+        display: block;
+
+    }
+
+    .subscribe :hover {
+        background-color: #0000ff;
+        color: white;
+    }
+
+}
+
+.others h2 {
+    color: red;
+}
+
+h2 {
+    color: greenyellow;
+    text-decoration: line-through;
+}
+
+.text {
+    text-decoration: none;
+}
